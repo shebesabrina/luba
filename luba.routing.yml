@@ -1,4 +1,4 @@
-hello.content:
+luba.content:
   path: '/luba'
   defaults:
     _controller: '\Drupal\luba\Controller\LubaController::content'
