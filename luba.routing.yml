@@ -1,0 +1,7 @@
+hello.content:
+  path: '/luba'
+  defaults:
+    _controller: '\Drupal\luba\Controller\LubaController::content'
+    _title: 'Luba is amazing'
+  requirements:
+    _permission: 'access content'
