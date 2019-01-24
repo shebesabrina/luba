@@ -1,0 +1,6 @@
+name: Luba Module
+description: Creates a page showing "How cool Luba is".
+package: Custom
+type: module
+version: 1.0
+core: 8.6.7
